@@ -11,3 +11,42 @@ Updated: 2023-06-19 15:10:19
 
 */
 
+*, body, ::before, ::after {
+	margin: 0;
+	padding: 0
+}
+
+main {
+    background-color: #ffffff!important;
+}
+
+.tm-logo {
+	width: 200px; 
+}
+
+.tm-secondary {
+	display: none;
+}
+
+.uk-align-medium-right {
+	display: none;
+}
+
+.uk-align-medium-left {
+	display: none;
+}
+
+.titre-vert {
+	color: #3B8E46;
+}
+.titre-saumon {
+	color: #D2776A
+}
+.sous-titre {
+	color: #3B8E46
+}
+
+h1, h2 {
+    font-weight: bolder;
+    
+}
